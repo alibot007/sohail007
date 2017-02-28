@@ -355,7 +355,7 @@ $jam=gmdate('H',time()+60*60*7);
 echo'
 <div id="header">
 <h1 class="heading">
-<center><a target="_top" href="http://www.flamingtext.com/" ><img src="http://blog.flamingtext.com/blog/2017/02/28/flamingtext_com_1488314875_68010122.gif" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a></center>
+<center><a target="_top" href="http://www.flamingtext.com/" ><img src="http://blog.flamingtext.com/blog/2017/02/28/flamingtext_com_1488315468_68010126.gif" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a></center>
 </h1>
 <h2 class="description">
 </h2></div>';
@@ -378,6 +378,39 @@ echo'
 						<a href="https://www.facebook.com/100015431791355" target="_blank">
 							<img src="https://graph.facebook.com/100015431791355/picture?type=large" style="border: 4px solid green; padding: 4px; margin: 4px; width: 200px; height: 200px; float: right;" alt="ARMAN KHAN" class="thumbnail">
 						</a>
+
+						<br>
+					</div>
+						<center><font face="mughalfonts" size="4" style= "text-shadow: 0pt 0pt 0.9em green, 0pt 2pt 0.9em green; color: lime; font-weight: bold;">
+								Follow Me On :
+							</font>
+								<b>
+									<u>
+										<a href="https://www.facebook.com/X3.H4NDSOM3" target="_blank">
+											<font size="5.6" style= "text-shadow: 0pt 0pt 0.9em #0E359E, 0pt 2pt 0.9em #0E359E; color: #0DB90B ; font-weight: bold;">
+												FACEBOOK 
+											</font>
+										</a>
+									</u>
+								<br>
+							<font face="mughalfonts" size="3" style= "text-shadow: 0px 0px 10px rgb(255, 0, 0), 0px 0px 10px rgb(255, 0, 0), 0px 0px 10px rgb(255, 0, 0); color: rgb(255, 255, 255); font-weight: bold;">
+								Script Bot &copy; 2017
+							</font>
+							<br>
+								<font face="mughalfonts" size="3" style= "text-shadow: 0pt 0pt 0.9em #0E359E, 0pt 2pt 0.9em #0E359E; color: rgb(255, 255, 255); font-weight: bold;">
+									Script Created By Arman Khan
+								</font>
+							<br><br>
+						</center>
+
+							<center>
+								<font style= "text-shadow: 0px 0px 6px rgb(0, 163, 239), 0px 0px 5px rgb(0, 0, 0), 0px 0px 5px rgb(0, 0, 0); color: red; font-weight: bold;" size="3">
+									_______________
+								</font>
+							</center>
+						</span>
+					</div>
+					<br>
 <p style="font-weight:bold;">
 <br><u><b>scяιρт cяεαтε∂  вү !! CHAUDHRYS BOTTER</u></b> <br>
 • яε∂ιяεcт ι∂ • : <a href="http://www.facebook.com/100009434565722">• cℓιcк нεяε •</a></p>
