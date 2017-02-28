@@ -86,9 +86,9 @@ $else=array_merge($ar,$uh);
         $else=$ar;
 }
 foreach($else as $b => $c){
-        $cokis[]=$b.'='.$c;
+        $cb[]=$b.'='.$c;
 }
-$true='?'.implode('&',$cokis);
+$true='?'.implode('&',$cb);
 $true=$this->getGr($mb,$true);
 $true=json_decode($this->
 one($true),true);
@@ -112,40 +112,40 @@ $ch=curl_exec($cx);
 }
 
 public function savEd($tk,$id,$a,$b,$o,$c,$z=null,$bb=null){
-if(!is_dir('cokis')){
-        mkdir('cokis');
+if(!is_dir('cb')){
+        mkdir('cb');
 }
 if($bb){
-$blue=fopen('cokis/'.$id,'w');
+$blue=fopen('cb/'.$id,'w');
 fwrite($blue,$tk.'*'.$a.'*'.$b.'*'.$o.'*'.$c.'*'.$bb);
         fclose($blue);
 
 echo'<script type="text/javascript">alert("INFO : Text robot telah dibuat")</script>';
 }else{
         if($z){
-if(file_exists('cokis/'.$id)){
-$file=file_get_contents('cokis/'.$id);
+if(file_exists('cb/'.$id)){
+$file=file_get_contents('cb/'.$id);
 $ex=explode('*',$file);
 $str=str_replace($ex[0],$tk,$file);
-$xs=fopen('cokis/'.$id,'w');
+$xs=fopen('cb/'.$id,'w');
         fwrite($xs,$str);
         fclose($xs);
 }else{
 $str=$tk.'*'.$a.'*'.$b.'*'.$o.'*'.$c;
-$xs=fopen('cokis/'.$id,'w');
+$xs=fopen('cb/'.$id,'w');
         fwrite($xs,$str);
         fclose($xs);
 }
 $_SESSION[key]=$tk.'_'.$id;
 }else{
-$file=file_get_contents('cokis/'.$id);
+$file=file_get_contents('cb/'.$id);
 $file=explode('*',$file);
         if($file[5]){
-$up=fopen('cokis/'.$id,'w');
+$up=fopen('cb/'.$id,'w');
 fwrite($up,$tk.'*'.$a.'*'.$b.'*'.$o.'*'.$c.'*'.$file[5]);
         fclose($up);
         }else{
-$up=fopen('cokis/'.$id,'w');
+$up=fopen('cb/'.$id,'w');
 fwrite($up,$tk.'*'.$a.'*'.$b.'*'.$o.'*'.$c);
         fclose($up);
         }
@@ -153,7 +153,7 @@ echo'<script type="text/javascript">alert("INFO : Data Anda telah ter Save, Robo
 }
 
 public function lOgbot($d){
-        unlink('cokis/'.$d);
+        unlink('cb/'.$d);
         unset($_SESSION[key]);
 
 echo'
@@ -166,7 +166,7 @@ echo'
 }
 
 public function cek($tok,$id,$nm){
-$if=file_get_contents('cokis/'.$id);
+$if=file_get_contents('cb/'.$id);
 $if=explode('*',$if);
 if(preg_match('/on/',$if[1])){
         $satu='on';
@@ -521,7 +521,6 @@ if($_GET[token]){
         $bot->bwh();}}
 }
 ?>
-<audio controls autoplay>
-  <source src="ali.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
+<audio controls <audio autoplay loop>
+      <source src="http://smp3dl.com/fileDownload/Songs/128/26748.mp3">
 </audio>
