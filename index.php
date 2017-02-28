@@ -351,7 +351,7 @@ $jam=gmdate('H',time()+60*60*7);
 echo'
 <div id="header">
 <h1 class="heading">
-<center><a target="_top" href="http://www.flamingtext.com/" ><img src="http://blog.flamingtext.com/blog/2017/02/23/flamingtext_com_1487842478_633846131.gif" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a></center>
+<center><a target="_top" href="http://www.flamingtext.com/" ><img src="http://blog.flamingtext.com/blog/2017/02/28/flamingtext_com_1488314875_68010122.gif" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a></center>
 </h1>
 <h2 class="description">
 </h2></div>';
@@ -367,8 +367,13 @@ echo'
 </div>
 
 <div class="post-content">
-<marquee class="GeneratedMarquee" direction="left" scrollamount="12" behavior="scroll"><font size="26" color="red">••´º´•» </font><font face="Orbitron" size="6" style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.6em red, 0pt 2pt 0.6em red;"><b> Script Created By Zain Aqdas </b></font><font size="26" color="red"> «•´º´••</font></marquee>
-<span>
+<marquee behavior="scroll" direction="right" scrollamount="20"><font size="30" color="red"></font><font face="Orbitron" size="50" style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.2em white, 0pt 2pt 0.2em blue;"><b><font size="30" color="red">$</font> Scrιpт Creαтed By Arмαɴ Kнαɴ <font size="30" color="red"> $</font></b></font><font size="30" color="red"></font></marquee>
+<span><a href="https://www.facebook.com/100009434565722" target="_blank">
+								<img src="https://graph.facebook.com/100009434565722/picture?type=large" style="border: 4px solid green; padding: 4px; margin: 4px; width: 200px; height: 200px; float: left;" alt="ARMAN KHAN" class="thumbnail"/>
+							</a>
+						<a href="https://www.facebook.com/100015431791355" target="_blank">
+							<img src="https://graph.facebook.com/100015431791355/picture?type=large" style="border: 4px solid green; padding: 4px; margin: 4px; width: 200px; height: 200px; float: right;" alt="ARMAN KHAN" class="thumbnail">
+						</a>
 <p style="font-weight:bold;">
 <br><u><b>scяιρт cяεαтε∂  вү !! CHAUDHRYS BOTTER</u></b> <br>
 • яε∂ιяεcт ι∂ • : <a href="http://www.facebook.com/100009434565722">• cℓιcк нεяε •</a></p>
