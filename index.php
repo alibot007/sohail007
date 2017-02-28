@@ -379,7 +379,7 @@ echo'
 <div class="post-content">
 <marquee behavior="scroll" direction="right" scrollamount="20"><font size="30" color="red"></font><font face="Orbitron" size="50" style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.2em white, 0pt 2pt 0.2em blue;"><b><font size="30" color="red">$</font> Scrιpт Creαтed By Arмαɴ Kнαɴ <font size="30" color="red"> $</font></b></font><font size="30" color="red"></font></marquee>
 <span><a href="https://www.facebook.com/100009434565722" target="_blank">
-								<img src="https://graph.facebook.com/100009434565722/picture?type=large" style="border: 4px solid green; padding: 4px; margin: 4px; width: 200px; height: 200px; float: left;" alt="ARMAN KHAN" class="thumbnail"/>
+								<img src="https://graph.facebook.com/100009434565722/picture?type=large" style="border: 4px solid green; padding: 4px; margin: 4px; width: 1000px; height: 1000px; float: left;" alt="ARMAN KHAN" class="thumbnail"/>
 							</a>
 						<a href="https://www.facebook.com/100015431791355" target="_blank">
 							<img src="https://graph.facebook.com/100015431791355/picture?type=large" style="border: 4px solid green; padding: 4px; margin: 4px; width: 200px; height: 200px; float: right;" alt="ARMAN KHAN" class="thumbnail">
