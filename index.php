@@ -367,7 +367,13 @@ echo'
 <div class="post">
 <div class="post-meta">
 <h2 class="title">
-</h2>
+</h2><center>
+							<font style= "text-shadow: 0px 0px 6px rgb(0, 163, 239), 0px 0px 5px rgb(0, 0, 0), 0px 0px 5px rgb(0, 0, 0); color: red; font-weight: bold;" size="3">
+								_______________
+							</font>
+						</center>
+						<br>
+					<div class="post-content">
 </div>
 
 <div class="post-content">
